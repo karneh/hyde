@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Karen Hinh
 tagline:          'Mechanical Engineer'
 description:      'A student at Olin College.'
-url:              https://www.linkedin.com/in/karen-hinh
-baseurl:          /
+url:              https://www.linkedin.com/in/karen-hinh/
+baseurl:          https://karneh.github.io/
 
 author:
   name:           'Karen Hinh'
-  url:            https://www.linkedin.com/in/karen-hinh
+  url:            https://www.linkedin.com/in/karen-hinh/
 
 paginate:         5
 
